@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 
-
 int main() {
     // printf("%f\n", sqrt(81));
 
@@ -9,6 +8,7 @@ int main() {
     printf("%f\n", floor(2.9999));
 
     printf("%f\n", pow(2, 5));
+    printf("%f\n", sqrt(81));
 
     return 0;
 }
